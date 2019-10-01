@@ -1,0 +1,12 @@
+C:\Users\marvi\Desktop\Lagerverwaltungsprogramm\TUI\bin\Debug\TUI.exe.config
+C:\Users\marvi\Desktop\Lagerverwaltungsprogramm\TUI\bin\Debug\TUI.exe
+C:\Users\marvi\Desktop\Lagerverwaltungsprogramm\TUI\bin\Debug\TUI.pdb
+C:\Users\marvi\Desktop\Lagerverwaltungsprogramm\TUI\obj\Debug\TUI.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\Lagerverwaltungsprogramm\TUI\obj\Debug\TUI.exe
+C:\Users\marvi\Desktop\Lagerverwaltungsprogramm\TUI\obj\Debug\TUI.pdb
+C:\Users\user\Desktop\AS-Projekt\Lagerverwaltungsprogramm\TUI\bin\Debug\TUI.exe.config
+C:\Users\user\Desktop\AS-Projekt\Lagerverwaltungsprogramm\TUI\bin\Debug\TUI.exe
+C:\Users\user\Desktop\AS-Projekt\Lagerverwaltungsprogramm\TUI\bin\Debug\TUI.pdb
+C:\Users\user\Desktop\AS-Projekt\Lagerverwaltungsprogramm\TUI\obj\Debug\TUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AS-Projekt\Lagerverwaltungsprogramm\TUI\obj\Debug\TUI.exe
+C:\Users\user\Desktop\AS-Projekt\Lagerverwaltungsprogramm\TUI\obj\Debug\TUI.pdb

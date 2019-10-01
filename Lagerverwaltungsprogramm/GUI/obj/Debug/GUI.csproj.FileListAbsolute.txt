@@ -1,0 +1,9 @@
+C:\Users\marvi\Desktop\Lagerverwaltungsprogramm\Lagerverwaltungsprogramm\GUI\bin\Debug\GUI.exe.config
+C:\Users\marvi\Desktop\Lagerverwaltungsprogramm\Lagerverwaltungsprogramm\GUI\bin\Debug\GUI.exe
+C:\Users\marvi\Desktop\Lagerverwaltungsprogramm\Lagerverwaltungsprogramm\GUI\bin\Debug\GUI.pdb
+C:\Users\marvi\Desktop\Lagerverwaltungsprogramm\Lagerverwaltungsprogramm\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\marvi\Desktop\Lagerverwaltungsprogramm\Lagerverwaltungsprogramm\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\marvi\Desktop\Lagerverwaltungsprogramm\Lagerverwaltungsprogramm\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\marvi\Desktop\Lagerverwaltungsprogramm\Lagerverwaltungsprogramm\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Desktop\Lagerverwaltungsprogramm\Lagerverwaltungsprogramm\GUI\obj\Debug\GUI.exe
+C:\Users\marvi\Desktop\Lagerverwaltungsprogramm\Lagerverwaltungsprogramm\GUI\obj\Debug\GUI.pdb
