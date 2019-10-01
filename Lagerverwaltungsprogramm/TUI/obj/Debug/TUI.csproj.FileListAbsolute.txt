@@ -10,3 +10,10 @@ C:\Users\user\Desktop\AS-Projekt\Lagerverwaltungsprogramm\TUI\bin\Debug\TUI.pdb
 C:\Users\user\Desktop\AS-Projekt\Lagerverwaltungsprogramm\TUI\obj\Debug\TUI.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\AS-Projekt\Lagerverwaltungsprogramm\TUI\obj\Debug\TUI.exe
 C:\Users\user\Desktop\AS-Projekt\Lagerverwaltungsprogramm\TUI\obj\Debug\TUI.pdb
+C:\Users\Kunze\Desktop\C#\ASProjekt\Lagerverwaltungsprogramm\TUI\bin\Debug\TUI.exe.config
+C:\Users\Kunze\Desktop\C#\ASProjekt\Lagerverwaltungsprogramm\TUI\bin\Debug\TUI.exe
+C:\Users\Kunze\Desktop\C#\ASProjekt\Lagerverwaltungsprogramm\TUI\bin\Debug\TUI.pdb
+C:\Users\Kunze\Desktop\C#\ASProjekt\Lagerverwaltungsprogramm\TUI\obj\Debug\TUI.csprojResolveAssemblyReference.cache
+C:\Users\Kunze\Desktop\C#\ASProjekt\Lagerverwaltungsprogramm\TUI\obj\Debug\TUI.csproj.CoreCompileInputs.cache
+C:\Users\Kunze\Desktop\C#\ASProjekt\Lagerverwaltungsprogramm\TUI\obj\Debug\TUI.exe
+C:\Users\Kunze\Desktop\C#\ASProjekt\Lagerverwaltungsprogramm\TUI\obj\Debug\TUI.pdb
