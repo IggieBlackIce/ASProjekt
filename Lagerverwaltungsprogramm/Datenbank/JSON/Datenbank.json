@@ -1,0 +1,244 @@
+[
+	{
+		"Regalnummer": 1,
+		"Produkte": [
+			{
+				"Produkt_ID": 1,
+				"Produktname": "PS4"
+			},
+			{
+				"Produkt_ID": 2,
+				"Produktname": "XBOX"
+			},
+			{
+				"Produkt_ID": 3,
+				"Produktname": "PS4-Controller"
+			},
+			{
+				"Produkt_ID": 4,
+				"Produktname": "XBOX-Controller"
+			},
+			{
+				"Produkt_ID": 5,
+				"Produktname": "Fernseher"
+			}
+		]
+	},
+
+	{
+		"Regalnummer": 2,
+		"Produkte": [
+			{
+				"Produkt_ID": 6,
+				"Produktname": "Monitor"
+			},
+			{
+				"Produkt_ID": 7,
+				"Produktname": "Beamer"
+			},
+			{
+				"Produkt_ID": 8,
+				"Produktname": "Tintenstrahldrucker"
+			},
+			{
+				"Produkt_ID": 9,
+				"Produktname": "Laserdrucker"
+			},
+			{
+				"Produkt_ID": 10,
+				"Produktname": "Mechanische Tastatur"
+			},
+			{
+				"Produkt_ID": 11,
+				"Produktname": "Tastatur"
+			}
+		]
+	},
+
+	{
+		"Regalnummer": 3,
+		"Produkte": [
+			{
+				"Produkt_ID": 12,
+				"Produktname": "Grafikkarte"
+			},
+			{
+				"Produkt_ID": 13,
+				"Produktname": "RAM-Sticks"
+			},
+			{
+				"Produkt_ID": 14,
+				"Produktname": "Soundkarte"
+			},
+			{
+				"Produkt_ID": 15,
+				"Produktname": "NIC-Karte"
+			},
+			{
+				"Produkt_ID": 16,
+				"Produktname": "Mainboard"
+			}
+		]
+	},
+
+	{
+		"Regalnummer": 4,
+		"Produkte": [
+			{
+				"Produkt_ID": 17,
+				"Produktname": "Druckerpatronen"
+			},
+			{
+				"Produkt_ID": 18,
+				"Produktname": "USB-Stick"
+			},
+			{
+				"Produkt_ID": 19,
+				"Produktname": "Lautsprecher"
+			},
+			{
+				"Produkt_ID": 20,
+				"Produktname": "Steckdosenleiste"
+			},
+			{
+				"Produkt_ID": 21,
+				"Produktname": "Lüfter"
+			},
+			{
+				"Produkt_ID": 22,
+				"Produktname": "HDMI-Kabel"
+			},
+			{
+				"Produkt_ID": 23,
+				"Produktname": "HDD-Festplatte"
+			},
+			{
+				"Produkt_ID": 24,
+				"Produktname": "SSD-Festplatte"
+			},
+			{
+				"Produkt_ID": 25,
+				"Produktname": "CD-Laufwerk"
+			}
+		]
+	},
+
+	{
+		"Regalnummer": 5,
+		"Produkte": [
+			{
+				"Produkt_ID": 26,
+				"Produktname": "CD-Rohlinge"
+			},
+			{
+				"Produkt_ID": 27,
+				"Produktname": "CD-Hüllen"
+			},
+			{
+				"Produkt_ID": 28,
+				"Produktname": "Netzteil"
+			},
+			{
+				"Produkt_ID": 29,
+				"Produktname": "3D-Drucker"
+			},
+			{
+				"Produkt_ID": 30,
+				"Produktname": "Laptop"
+			},
+			{
+				"Produkt_ID": 31,
+				"Produktname": "Kabel-Maus"
+			},
+			{
+				"Produkt_ID": 32,
+				"Produktname": "Funk-Maus"
+			}
+		]
+	},
+
+	{
+		"Regalnummer": 6,
+		"Produkte": [
+			{
+				"Produkt_ID": 33,
+				"Produktname": "Mauspad"
+			},
+			{
+				"Produkt_ID": 34,
+				"Produktname": "Touchpad"
+			},
+			{
+				"Produkt_ID": 35,
+				"Produktname": "Tablet"
+			},
+			{
+				"Produkt_ID": 36,
+				"Produktname": "Smartphone"
+			},
+			{
+				"Produkt_ID": 37,
+				"Produktname": "Scanner"
+			},
+			{
+				"Produkt_ID": 38,
+				"Produktname": "Batterien"
+			}
+		]
+	},
+
+	{
+		"Regalnummer": 7,
+		"Produkte": [
+			{
+				"Produkt_ID": 39,
+				"Produktname": "Displayport-Kabel"
+			},
+			{
+				"Produkt_ID": 40,
+				"Produktname": "Ethernet-Kabel"
+			},
+			{
+				"Produkt_ID": 41,
+				"Produktname": "DVI-Kabel"
+			},
+			{
+				"Produkt_ID": 42,
+				"Produktname": "SATA-Kabel"
+			},
+			{
+				"Produkt_ID": 43,
+				"Produktname": "VGA-Kabel"
+			},
+			{
+				"Produkt_ID": 44,
+				"Produktname": "USB-Kabel"
+			}
+		]
+	},
+
+	{
+		"Regalnummer": 8,
+		"Produkte": [
+			{
+				"Produkt_ID": 45,
+				"Produktname": "Router"
+			},
+			{
+				"Produkt_ID": 46,
+				"Produktname": "Switch"
+			},
+			{
+				"Produkt_ID": 47,
+				"Produktname": "Prozessor"
+			},
+			{
+				"Produkt_ID": 48,
+				"Produktname": "Fernbedienung"
+			}
+		]
+	}
+]
+
+
+
