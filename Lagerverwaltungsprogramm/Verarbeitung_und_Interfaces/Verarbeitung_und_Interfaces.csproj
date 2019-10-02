@@ -42,7 +42,8 @@
   <ItemGroup>
     <Compile Include="Datenstruktur\Produkt.cs" />
     <Compile Include="Datenstruktur\Regal.cs" />
-    <Compile Include="GetData.cs" />
+    <Compile Include="Fachkonzept1.cs" />
+    <Compile Include="IDatenhaltung.cs" />
     <Compile Include="IFachkonzept.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

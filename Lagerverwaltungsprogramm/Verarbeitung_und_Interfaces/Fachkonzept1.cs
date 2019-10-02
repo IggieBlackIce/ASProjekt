@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Verarbeitung_und_Interfaces
 {
-    public class GetData
+    public class Fachkonzept1
     {
         
     }
