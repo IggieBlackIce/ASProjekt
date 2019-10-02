@@ -8,8 +8,11 @@ namespace Verarbeitung_und_Interfaces
 {
     interface IFachkonzept
     {
-        Regal LeseRegal(int regalNr);
-        List<Regal> LeseAlleRegale();
+        int GetRegalNr(Regal einRegal);
+        SetRegalNr(Regal einRegal, int nr);
+
+
+        List<Regal> GetAlleRegale();
         bool SchreibeRegal(Regal einRegal);
         bool LöscheRegal(Regal einRegal);
         bool AktualisiereRegal(Regal einRegal);

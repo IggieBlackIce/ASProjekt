@@ -6,8 +6,15 @@ using System.Threading.Tasks;
 
 namespace Verarbeitung_und_Interfaces
 {
-    class Regal
+    public class Regal
     {
-        private int regalNR { get; set; }
+        private int RegalNr { get; set; }
+
+        Regal(int regalNr)
+        {
+            RegalNr = regalNr;
+        }
+
+        Regal() { }
     }
 }

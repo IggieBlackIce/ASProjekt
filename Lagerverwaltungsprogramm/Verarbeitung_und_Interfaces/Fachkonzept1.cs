@@ -8,6 +8,6 @@ namespace Verarbeitung_und_Interfaces
 {
     public class Fachkonzept1
     {
-        
+
     }
 }
