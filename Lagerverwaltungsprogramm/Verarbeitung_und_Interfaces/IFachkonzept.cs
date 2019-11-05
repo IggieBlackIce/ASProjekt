@@ -9,7 +9,8 @@ namespace Verarbeitung_und_Interfaces
     interface IFachkonzept
     {
         int GetRegalNr(Regal einRegal);
-        SetRegalNr(Regal einRegal, int nr);
+        void SetRegalNr(Regal einRegal, int nr);
+
 
 
         List<Regal> GetAlleRegale();
