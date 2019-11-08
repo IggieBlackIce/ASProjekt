@@ -6,14 +6,12 @@ using System.Threading.Tasks;
 
 namespace Verarbeitung_und_Interfaces
 {
-    interface IFachkonzept
+    interface IDatenhaltung
     {
-        int GetRegalNr(Regal einRegal);
-        void SetRegalNr(Regal einRegal, int nr);
+        bool ErstelleOderLadeSpeichermedium();
 
-
-
-        List<Regal> GetAlleRegale();
+        Regal LeseRegal(int regalNr);
+        List<Regal> LeseAlleRegale();
         bool SchreibeRegal(Regal einRegal);
         bool LöscheRegal(Regal einRegal);
         bool AktualisiereRegal(Regal einRegal);

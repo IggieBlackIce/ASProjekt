@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace Verarbeitung_und_Interfaces
 {
-    interface IFachkonzept
+    public interface IFachkonzept
     {
         int GetRegalNr(Regal einRegal);
         void SetRegalNr(Regal einRegal, int nr);
-
 
 
         List<Regal> GetAlleRegale();
